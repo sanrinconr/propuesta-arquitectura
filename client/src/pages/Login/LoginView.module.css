@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.container form{
+        display: flex;
+        flex-flow: column wrap;
+}
+
+.container form input , .container form button{
+    width: 60%;
+    margin: 0.3em;
+}
